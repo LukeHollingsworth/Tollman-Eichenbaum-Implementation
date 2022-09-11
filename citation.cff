@@ -1,0 +1,12 @@
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Hollingsworth"
+  given-names: "Luke"
+  email: "luke.hollingsworth.21@ucl.ac.uk"
+- family-names: "Saxe"
+  given-names: "Andrew"
+  orcid: "a.saxe@ucl.ac.uk"
+title: "Description & Implementation of the Tollman-Eichenbaum Machine"
+version: 2.0.4
+date-released: 20122-09-12
+url: "https://github.com/LukeHollingsworth/Tollman-Eichenbaum-Implementation"
