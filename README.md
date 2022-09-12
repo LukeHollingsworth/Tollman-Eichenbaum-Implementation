@@ -2,9 +2,15 @@
 Implementation of the Tollman-Eichenbaum machine to an open-source collaborative framework for comparison of models and experiments, focusing on the hippocampus and entorhinal cortex.
 
 # Set Up
+The following environment requirements to run this code are:
+```
+python=3.6
+TensorFlow=1.9.0
+setuptools=39.0.1
+```
+
 For now, install using pip for local editing and testing
 ```
-pip install --upgrade setuptools wheel 
 python setup.py sdist bdist_wheel
 pip install -e .
 ```
