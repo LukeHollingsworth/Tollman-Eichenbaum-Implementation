@@ -1,5 +1,5 @@
 # Tollman-Eichenbaum-Implementation
-Implementation of the Tollman-Eichenbaum machine to an open-source collaborative framework for comparison of models and experiments, focusing on the hippocampus and entorhinal cortex.
+Implementation of the Tollman-Eichenbaum machine to an open-source collaborative framework for comparison of models and experiments, focusing on the hippocampus and entorhinal cortex. This is the code associated with the Master Thesis, 'Description, Implementation & Analysis of the Tollman-Eichenbaum'.
 
 # Set Up
 The following environment requirements to run this code are:
