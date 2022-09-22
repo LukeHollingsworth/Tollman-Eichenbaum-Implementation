@@ -1,6 +1,6 @@
 import sys
 
-sys.path.append("../")
+# sys.path.append("../")
 import numpy as np
 import random
 import matplotlib.pyplot as plt
